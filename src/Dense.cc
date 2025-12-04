@@ -28,3 +28,4 @@ void Dense::update_params(double learning_rate) {
     biases  -= learning_rate * grad_biases;
 }
 
+
